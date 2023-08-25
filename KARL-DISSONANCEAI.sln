@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kind-Heart-Charity", "Kind-Heart-Charity\Kind-Heart-Charity.csproj", "{3590FBED-C441-4C8C-A6AB-10F975C8B8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KARL-DISSONANCEAI", "Kind-Heart-Charity\KARL-DISSONANCEAI.csproj", "{3590FBED-C441-4C8C-A6AB-10F975C8B8AE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31F755FC-4C02-4040-8D3A-1FB75CBBCECD}"
 	ProjectSection(SolutionItems) = preProject
